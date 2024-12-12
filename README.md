@@ -8,5 +8,7 @@
 在此目錄下執行終端機，輸入 java -jar test-0.0.1-SNAPSHOT.jar
 按下 enter，即可獲取結果
 
+Q1.xlsx 檔案在 https://drive.google.com/drive/folders/11RAptkPhW0SC47aD7yb6U3sIECz6GPHO?usp=drive_link
+
 注意：
 只會讀取檔名為 Q1.xlsx 的 第一個工作表
